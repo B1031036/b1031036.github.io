@@ -1,0 +1,40 @@
+body{background-color:#ＦＦＦＦＦＦ}
+<style>
+
+      /* 全域樣式 */
+      body {
+        margin: 100px;
+        padding:100px;
+        font-family: Arial, sans-serif;
+        font-size: 40px;
+      }
+     
+      /* 左欄樣式 */
+      #left {
+        width:30%;
+        float: left;
+        background-color: #FF9D6F;
+        height: 1500px;
+        padding: 20px;
+        font-size: 20px;
+      }
+      #center {
+        width:30%;
+        float: center;
+        background-color: #F0F000;
+        height: 1500px;
+        padding: 20px;
+        font-size: 30px;
+      }
+      /* 右欄樣式 */
+      #right {
+        width: 30%;
+        float: right;
+        background-color: #B766AD;
+        height: 850px;
+        padding: 20px;
+        font-size: 25px;
+      }
+     
+    
+    </style>
